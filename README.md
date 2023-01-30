@@ -1,2 +1,2 @@
-# Quiz-React
+# Quiz-Programacao
 Perguntas de Programação
